@@ -1,5 +1,4 @@
 streamlit
-groq
-PyPDF2
-fpdf
 pandas
+plotly
+mysql-connector-python
